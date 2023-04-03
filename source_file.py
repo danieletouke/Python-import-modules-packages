@@ -2,6 +2,8 @@
 # File Hierrarchy in python:
 # modules > packages&sub-packages(folders/sub-folders containing modules) > libraries&Framework
 # python packages manager is PIP3 like YUM is the redhat packages manager
+#When adding the file to git remote, last command to use is:
+#                               git push --set-upstream origin main
 
 
 def my_car():
